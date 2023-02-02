@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_libcamera_streamer/templates *
+recursive-include octoprint_libcamera_streamer/translations *
+recursive-include octoprint_libcamera_streamer/static *
